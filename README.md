@@ -51,4 +51,4 @@ Estudio Ingeniería en Computación en la ESPOL, en Guayaquil. Me muevo entre Ja
 - Correo: [mathiasgilergomez@gmail.com](mailto:mathiasgilergomez@gmail.com)
 - LinkedIn: [mathias-giler-espol](https://www.linkedin.com/in/mathias-giler-espol/)
 
-
+*Gracias por pasar por aquí.*
