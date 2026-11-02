@@ -10,7 +10,7 @@ Web         HTML, CSS
 Correo      mathiasgilergomez@gmail.com
 LinkedIn    in/mathias-giler-espol
 ```
-
+[![Correo](https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mathiasgilergomez@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathias-giler-espol/)
 ---
 
 ## Sobre mí
@@ -44,4 +44,11 @@ Estudio Ingeniería en Computación en la ESPOL, en Guayaquil. Me muevo entre Ja
 | **EcoTrack** | Proyecto de Estructuras de Datos (ESPOL) para gestionar residuos, vehículos y zonas. | Java, Maven | [Repositorio](https://github.com/matheoglg/Grupo_08_EcoTrack) 
 | **JuegoRSA** | Juego interactivo para cifrar y descifrar archivos y documentos con claves públicas y privadas, aplicando conceptos matemáticos de criptografía (Matemáticas Discretas). | Python | [Repositorio](https://github.com/matheoglg/JuegoRSA) |
 
-[![Correo](https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mathiasgilergomez@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathias-giler-espol/)
+---
+
+## Contacto
+
+- Correo: [mathiasgilergomez@gmail.com](mailto:mathiasgilergomez@gmail.com)
+- LinkedIn: [mathias-giler-espol](https://www.linkedin.com/in/mathias-giler-espol/)
+
+
