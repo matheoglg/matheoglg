@@ -30,11 +30,37 @@ Estudio Ingeniería en Computación en la ESPOL, en Guayaquil. Me muevo entre Ja
 
 ## 🛠️ Habilidades y tecnologías
 
-| Categoría | Tecnologías | |
-|-----------|-------------|---|
-| Lenguajes | ![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=py) ![C](https://skillicons.dev/icons?i=c) ![JavaScript](https://skillicons.dev/icons?i=js) ![R](https://skillicons.dev/icons?i=r) | ![Personaje de anime de cabello plateado sosteniendo un libro de Python](https://github.com/user-attachments/assets/9a856e3e-3439-4a13-9867-0e2b66f743dc)  |
-| Bases de datos | ![MySQL](https://skillicons.dev/icons?i=mysql) | ![Gatito blanco y gris bailando sobre fondo negro](<https://github.com/user-attachments/assets/dcda95c2-ef87-4d19-8895-f7b1c01ff6a9/>)|
-| Web | ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) | ![Personaje de anime de cabello plateado tomando café frente a una laptop](https://github.com/user-attachments/assets/7726857b-6065-4607-8855-bcb06c7914b2)|
+<table align="center">
+  <tr>
+    <th align="center">Categoría</th>
+    <th align="center">Tecnologías</th>
+    <th></th>
+  </tr>
+  <tr>
+    <td align="center">Lenguajes</td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=java" alt="Java">
+      <img src="https://skillicons.dev/icons?i=py" alt="Python">
+      <img src="https://skillicons.dev/icons?i=c" alt="C">
+      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript">
+      <img src="https://skillicons.dev/icons?i=r" alt="R">
+    </td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/9a856e3e-3439-4a13-9867-0e2b66f743dc" width="160" alt="Personaje de anime de cabello plateado sosteniendo un libro de Python"></td>
+  </tr>
+  <tr>
+    <td align="center">Bases de datos</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/dcda95c2-ef87-4d19-8895-f7b1c01ff6a9" width="160" alt="Gatito blanco y gris bailando sobre fondo negro"></td>
+  </tr>
+  <tr>
+    <td align="center">Web</td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html" alt="HTML">
+      <img src="https://skillicons.dev/icons?i=css" alt="CSS">
+    </td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/7726857b-6065-4607-8855-bcb06c7914b2" width="160" alt="Personaje de anime de cabello plateado tomando café frente a una laptop"></td>
+  </tr>
+</table>
 
 ---
 
