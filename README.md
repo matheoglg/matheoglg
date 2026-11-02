@@ -1,3 +1,6 @@
+| ![Ilustración de una elfa de cabello plateado con un esqueleto tocando el violín detrás](<img width="320" height="320" alt="Image" src="https://github.com/user-attachments/assets/407095d5-45c5-4b11-b0a2-7399c9bd1160" />) |
+|:-:|
+
 ```python
 class Mathias:
     nombre = "Mathias Giler"
