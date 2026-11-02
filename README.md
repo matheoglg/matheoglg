@@ -1,4 +1,4 @@
-| ![Ilustración de una elfa de cabello plateado con un esqueleto tocando el violín detrás](<img width="320" height="320" alt="Image" src="https://github.com/user-attachments/assets/407095d5-45c5-4b11-b0a2-7399c9bd1160" />) |
+| ![Ilustración de una elfa de cabello plateado con un esqueleto tocando el violín detrás](<https://github.com/user-attachments/assets/407095d5-45c5-4b11-b0a2-7399c9bd1160/>) |
 |:-:|
 
 ```python
@@ -30,11 +30,11 @@ Estudio Ingeniería en Computación en la ESPOL, en Guayaquil. Me muevo entre Ja
 
 ## Habilidades y tecnologías
 
-| Categoría | Tecnologías |
-|-----------|-------------|
-| Lenguajes | ![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=py) ![C](https://skillicons.dev/icons?i=c) ![JavaScript](https://skillicons.dev/icons?i=js) ![R](https://skillicons.dev/icons?i=r) |
-| Bases de datos | ![MySQL](https://skillicons.dev/icons?i=mysql) |
-| Web | ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) |
+| Categoría | Tecnologías | |
+|-----------|-------------|---|
+| Lenguajes | ![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=py) ![C](https://skillicons.dev/icons?i=c) ![JavaScript](https://skillicons.dev/icons?i=js) ![R](https://skillicons.dev/icons?i=r) | ![Gatito blanco y gris bailando sobre fondo negro](<https://github.com/user-attachments/assets/dcda95c2-ef87-4d19-8895-f7b1c01ff6a9/>) |
+| Bases de datos | ![MySQL](https://skillicons.dev/icons?i=mysql) | |
+| Web | ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) | |
 
 ---
 
