@@ -32,9 +32,9 @@ Estudio Ingeniería en Computación en la ESPOL, en Guayaquil. Me muevo entre Ja
 
 | Categoría | Tecnologías | |
 |-----------|-------------|---|
-| Lenguajes | ![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=py) ![C](https://skillicons.dev/icons?i=c) ![JavaScript](https://skillicons.dev/icons?i=js) ![R](https://skillicons.dev/icons?i=r) | ![Gatito blanco y gris bailando sobre fondo negro](<https://github.com/user-attachments/assets/dcda95c2-ef87-4d19-8895-f7b1c01ff6a9/>) |
-| Bases de datos | ![MySQL](https://skillicons.dev/icons?i=mysql) | |
-| Web | ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) | |
+| Lenguajes | ![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=py) ![C](https://skillicons.dev/icons?i=c) ![JavaScript](https://skillicons.dev/icons?i=js) ![R](https://skillicons.dev/icons?i=r) | ![Personaje de anime de cabello plateado sosteniendo un libro de Python](https://github.com/user-attachments/assets/7726857b-6065-4607-8855-bcb06c7914b2)  |
+| Bases de datos | ![MySQL](https://skillicons.dev/icons?i=mysql) | ![Gatito blanco y gris bailando sobre fondo negro](<https://github.com/user-attachments/assets/dcda95c2-ef87-4d19-8895-f7b1c01ff6a9/>)|
+| Web | ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) | ![Personaje de anime de cabello plateado tomando café frente a una laptop](https://github.com/user-attachments/assets/9a856e3e-3439-4a13-9867-0e2b66f743dc)|
 
 ---
 
