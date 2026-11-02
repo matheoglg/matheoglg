@@ -29,9 +29,9 @@ Estudio Ingeniería en Computación en la ESPOL, en Guayaquil. Me muevo entre Ja
 
 | Categoría | Tecnologías |
 |-----------|-------------|
-| Lenguajes | Java · Python · C · JavaScript · R |
-| Bases de datos | MySQL |
-| Web | HTML · CSS |
+| Lenguajes | ![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=py) ![C](https://skillicons.dev/icons?i=c) ![JavaScript](https://skillicons.dev/icons?i=js) ![R](https://skillicons.dev/icons?i=r) |
+| Bases de datos | ![MySQL](https://skillicons.dev/icons?i=mysql) |
+| Web | ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) |
 
 ---
 
